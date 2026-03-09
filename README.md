@@ -4,7 +4,7 @@
 🚀 Specialized in **Laravel, Next.js and full-stack development**.
 🏢 Currently working as a **Web Developer Apprentice at R&D Networks**, developing custom **Dolibarr modules** and web applications.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000">
 
 ---
 
